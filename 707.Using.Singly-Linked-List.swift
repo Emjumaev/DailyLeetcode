@@ -53,7 +53,7 @@ class MyLinkedList {
         head = newNode
     }
     
-    // O(1)
+    // O(n)
     func addAtTail(_ val: Int) {
         var cur = head
         let newNode = Node(val: val)
