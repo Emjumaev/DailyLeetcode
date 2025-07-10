@@ -1,17 +1,28 @@
 class Solution {
     func lengthOfLongestSubstring(_ s: String) -> Int {
-        var charSet = Set<Character>()
-        var l = 0, res = 0
-        let chars = Array(s)
+        var hashSet = Set<Character>()
+        var res = 0
 
-        for r in 0..<chars.count {
-            while charSet.contains(chars[r]) {
-                charSet.remove(chars[l])
-                l += 1
-            }
-            charSet.insert(chars[r])
-            res = max(res, r - l + 1)
+        var sArray = [Character]()
+        for i in s {
+            sArray.append(i)
         }
+
+        var i = 0
+        var j = 0
+        
+        while(j < sArray.count) {
+            let cur = sArray[j]
+            while(hashSet.contains(cur)) {
+                let left = sArray[i]
+                hashSet.remove(left)
+                i += 1
+            }
+            hashSet.insert(cur)
+            res = max(res, j - i + 1)
+            j += 1
+        }
+        
         return res
     }
 }
