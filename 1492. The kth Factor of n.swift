@@ -1,14 +1,14 @@
 class Solution {
     func kthFactor(_ n: Int, _ k: Int) -> Int {
-        var nums = [Int]()
+        var k = k
         for i in 1...n {
             if n % i == 0 {
-                nums.append(i)
+                k -= 1
+                if k == 0 {
+                    return i
+                }
             }
         }
-    if nums.count < k {
         return -1
-    }
-        return nums[k - 1]
     }
 }
