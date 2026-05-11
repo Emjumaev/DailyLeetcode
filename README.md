@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 148 solutions**
+**Total: 149 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -145,15 +145,16 @@ Daily LeetCode solutions in Swift.
 | 134 | 1512 | Number of Good Pairs | [Link](https://leetcode.com/problems/number-of-good-pairs/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1512.%20Number%20of%20Good%20Pairs.swift) | Swift |
 | 135 | 1523 | Count Odd Numbers in an Interval Range | [Link](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.swift) | Swift |
 | 136 | 1700 | Number of Students Unable to Eat Lunch | [Link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1700_optimal_solution.swift) | Swift |
-| 137 | 1812 | Determine Color of a Chessboard Square | [Link](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.swift) | Swift |
-| 138 | 1822 | Sign of the Product of an Array | [Link](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.swift) | Swift |
-| 139 | 1837 | Sum of Digits in Base K | [Link](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1837.%20Sum%20of%20Digits%20in%20Base%20K.swift) | Swift |
-| 140 | 1929 | Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1929.%20Concatenation%20of%20Array.swift) | Swift |
-| 141 | 1952 | Three Divisors | [Link](https://leetcode.com/problems/three-divisors/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1952.%20Three%20Divisors.swift) | Swift |
-| 142 | 1979 | Find Greatest Common Divisor of Array | [Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.swift) | Swift |
-| 143 | 2000 | Reverse Prefix of Word | [Link](https://leetcode.com/problems/reverse-prefix-of-word/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2000.%20Reverse%20Prefix%20of%20Word.swift) | Swift |
-| 144 | 2119 | A Number After a Double Reversal | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2119.%20A%20Number%20After%20a%20Double%20Reversal.swift) | Swift |
-| 145 | 2442 | Count Number of Distinct Integers After Reverse Operations | [Link](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.swift) | Swift |
-| 146 | 2469 | Convert the Temperature | [Link](https://leetcode.com/problems/convert-the-temperature/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2469.%20Convert%20the%20Temperature.swift) | Swift |
-| 147 | 2652 | Sum Multiples | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2652.%20Sum%20Multiples.swift) | Swift |
-| 148 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
+| 137 | 1779 | Find Nearest Point That Has the Same X or Y Coordinate | [Link](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.swift) | Swift |
+| 138 | 1812 | Determine Color of a Chessboard Square | [Link](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.swift) | Swift |
+| 139 | 1822 | Sign of the Product of an Array | [Link](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.swift) | Swift |
+| 140 | 1837 | Sum of Digits in Base K | [Link](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1837.%20Sum%20of%20Digits%20in%20Base%20K.swift) | Swift |
+| 141 | 1929 | Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1929.%20Concatenation%20of%20Array.swift) | Swift |
+| 142 | 1952 | Three Divisors | [Link](https://leetcode.com/problems/three-divisors/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1952.%20Three%20Divisors.swift) | Swift |
+| 143 | 1979 | Find Greatest Common Divisor of Array | [Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.swift) | Swift |
+| 144 | 2000 | Reverse Prefix of Word | [Link](https://leetcode.com/problems/reverse-prefix-of-word/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2000.%20Reverse%20Prefix%20of%20Word.swift) | Swift |
+| 145 | 2119 | A Number After a Double Reversal | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2119.%20A%20Number%20After%20a%20Double%20Reversal.swift) | Swift |
+| 146 | 2442 | Count Number of Distinct Integers After Reverse Operations | [Link](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.swift) | Swift |
+| 147 | 2469 | Convert the Temperature | [Link](https://leetcode.com/problems/convert-the-temperature/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2469.%20Convert%20the%20Temperature.swift) | Swift |
+| 148 | 2652 | Sum Multiples | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2652.%20Sum%20Multiples.swift) | Swift |
+| 149 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
