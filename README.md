@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 154 solutions**
+**Total: 155 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -163,3 +163,4 @@ Daily LeetCode solutions in Swift.
 | 152 | 2469 | Convert the Temperature | [Link](https://leetcode.com/problems/convert-the-temperature/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2469.%20Convert%20the%20Temperature.swift) | Swift |
 | 153 | 2652 | Sum Multiples | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2652.%20Sum%20Multiples.swift) | Swift |
 | 154 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
+| 155 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
