@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 163 solutions**
+**Total: 164 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -172,3 +172,4 @@ Daily LeetCode solutions in Swift.
 | 161 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
 | 162 | 3194 | Minimum Average of Smallest and Largest Elements | [Link](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.swift) | Swift |
 | 163 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
+| 164 | 3823 | Reverse Letters Then Special Characters in a String | [Link](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3823.%20Reverse%20Letters%20Then%20Special%20Characters%20in%20a%20String.swift) | Swift |
