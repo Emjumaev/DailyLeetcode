@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 161 solutions**
+**Total: 162 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -160,13 +160,14 @@ Daily LeetCode solutions in Swift.
 | 149 | 1952 | Three Divisors | [Link](https://leetcode.com/problems/three-divisors/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1952.%20Three%20Divisors.swift) | Swift |
 | 150 | 1979 | Find Greatest Common Divisor of Array | [Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.swift) | Swift |
 | 151 | 2000 | Reverse Prefix of Word | [Link](https://leetcode.com/problems/reverse-prefix-of-word/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2000.%20Reverse%20Prefix%20of%20Word.swift) | Swift |
-| 152 | 2119 | A Number After a Double Reversal | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2119.%20A%20Number%20After%20a%20Double%20Reversal.swift) | Swift |
-| 153 | 2149 | Rearrange Array Elements by Sign | [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2149.%20Rearrange%20Array%20Elements%20by%20Sign.swift) | Swift |
-| 154 | 2161 | Partition Array According to Given Pivot | [Link](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.swift) | Swift |
-| 155 | 2367 | Number of Arithmetic Triplets | [Link](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2367.%20Number%20of%20Arithmetic%20Triplets.swift) | Swift |
-| 156 | 2442 | Count Number of Distinct Integers After Reverse Operations | [Link](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.swift) | Swift |
-| 157 | 2469 | Convert the Temperature | [Link](https://leetcode.com/problems/convert-the-temperature/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2469.%20Convert%20the%20Temperature.swift) | Swift |
-| 158 | 2652 | Sum Multiples | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2652.%20Sum%20Multiples.swift) | Swift |
-| 159 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
-| 160 | 3194 | Minimum Average of Smallest and Largest Elements | [Link](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.swift) | Swift |
-| 161 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
+| 152 | 2108 | Find First Palindromic String in the Array | [Link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.swift) | Swift |
+| 153 | 2119 | A Number After a Double Reversal | [Link](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2119.%20A%20Number%20After%20a%20Double%20Reversal.swift) | Swift |
+| 154 | 2149 | Rearrange Array Elements by Sign | [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2149.%20Rearrange%20Array%20Elements%20by%20Sign.swift) | Swift |
+| 155 | 2161 | Partition Array According to Given Pivot | [Link](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.swift) | Swift |
+| 156 | 2367 | Number of Arithmetic Triplets | [Link](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2367.%20Number%20of%20Arithmetic%20Triplets.swift) | Swift |
+| 157 | 2442 | Count Number of Distinct Integers After Reverse Operations | [Link](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.swift) | Swift |
+| 158 | 2469 | Convert the Temperature | [Link](https://leetcode.com/problems/convert-the-temperature/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2469.%20Convert%20the%20Temperature.swift) | Swift |
+| 159 | 2652 | Sum Multiples | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2652.%20Sum%20Multiples.swift) | Swift |
+| 160 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
+| 161 | 3194 | Minimum Average of Smallest and Largest Elements | [Link](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.swift) | Swift |
+| 162 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
