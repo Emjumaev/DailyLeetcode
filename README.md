@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 160 solutions**
+**Total: 161 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -168,4 +168,5 @@ Daily LeetCode solutions in Swift.
 | 157 | 2469 | Convert the Temperature | [Link](https://leetcode.com/problems/convert-the-temperature/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2469.%20Convert%20the%20Temperature.swift) | Swift |
 | 158 | 2652 | Sum Multiples | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2652.%20Sum%20Multiples.swift) | Swift |
 | 159 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
-| 160 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
+| 160 | 3194 | Minimum Average of Smallest and Largest Elements | [Link](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.swift) | Swift |
+| 161 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
