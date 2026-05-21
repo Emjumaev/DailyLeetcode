@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 167 solutions**
+**Total: 168 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -173,6 +173,7 @@ Daily LeetCode solutions in Swift.
 | 162 | 2697 | Lexicographically Smallest Palindrome | [Link](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2697.%20Lexicographically%20Smallest%20Palindrome.swift) | Swift |
 | 163 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
 | 164 | 3194 | Minimum Average of Smallest and Largest Elements | [Link](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.swift) | Swift |
-| 165 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
-| 166 | 3823 | Reverse Letters Then Special Characters in a String | [Link](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3823.%20Reverse%20Letters%20Then%20Special%20Characters%20in%20a%20String.swift) | Swift |
-| 167 | 3884 | First Matching Character From Both Ends | [Link](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3884.%20First%20Matching%20Character%20From%20Both%20Ends.swift) | Swift |
+| 165 | 3643 | Flip Square Submatrix Vertically | [Link](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3643.%20Flip%20Square%20Submatrix%20Vertically.swift) | Swift |
+| 166 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
+| 167 | 3823 | Reverse Letters Then Special Characters in a String | [Link](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3823.%20Reverse%20Letters%20Then%20Special%20Characters%20in%20a%20String.swift) | Swift |
+| 168 | 3884 | First Matching Character From Both Ends | [Link](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3884.%20First%20Matching%20Character%20From%20Both%20Ends.swift) | Swift |
