@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 188 solutions**
+**Total: 189 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -188,12 +188,13 @@ Daily LeetCode solutions in Swift.
 | 177 | 2469 | Convert the Temperature | [Link](https://leetcode.com/problems/convert-the-temperature/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2469.%20Convert%20the%20Temperature.swift) | Swift |
 | 178 | 2570 | Merge Two 2D Arrays by Summing Values | [Link](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values.swift) | Swift |
 | 179 | 2652 | Sum Multiples | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2652.%20Sum%20Multiples.swift) | Swift |
-| 180 | 2697 | Lexicographically Smallest Palindrome | [Link](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2697.%20Lexicographically%20Smallest%20Palindrome.swift) | Swift |
-| 181 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
-| 182 | 3174 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3174.%20Clear%20Digits.swift) | Swift |
-| 183 | 3194 | Minimum Average of Smallest and Largest Elements | [Link](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.swift) | Swift |
-| 184 | 3643 | Flip Square Submatrix Vertically | [Link](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3643.%20Flip%20Square%20Submatrix%20Vertically.swift) | Swift |
-| 185 | 3746 | Minimum String Length After Balanced Removals | [Link](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals.swift) | Swift |
-| 186 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
-| 187 | 3823 | Reverse Letters Then Special Characters in a String | [Link](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3823.%20Reverse%20Letters%20Then%20Special%20Characters%20in%20a%20String.swift) | Swift |
-| 188 | 3884 | First Matching Character From Both Ends | [Link](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3884.%20First%20Matching%20Character%20From%20Both%20Ends.swift) | Swift |
+| 180 | 2696 | Minimum String Length After Removing Substrings | [Link](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.swift) | Swift |
+| 181 | 2697 | Lexicographically Smallest Palindrome | [Link](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2697.%20Lexicographically%20Smallest%20Palindrome.swift) | Swift |
+| 182 | 2894 | Divisible and Non-divisible Sums Difference | [Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.swift) | Swift |
+| 183 | 3174 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3174.%20Clear%20Digits.swift) | Swift |
+| 184 | 3194 | Minimum Average of Smallest and Largest Elements | [Link](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.swift) | Swift |
+| 185 | 3643 | Flip Square Submatrix Vertically | [Link](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3643.%20Flip%20Square%20Submatrix%20Vertically.swift) | Swift |
+| 186 | 3746 | Minimum String Length After Balanced Removals | [Link](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals.swift) | Swift |
+| 187 | 3794 | Reverse String Prefix | [Link](https://leetcode.com/problems/reverse-string-prefix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3794.%20Reverse%20String%20Prefix.swift) | Swift |
+| 188 | 3823 | Reverse Letters Then Special Characters in a String | [Link](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3823.%20Reverse%20Letters%20Then%20Special%20Characters%20in%20a%20String.swift) | Swift |
+| 189 | 3884 | First Matching Character From Both Ends | [Link](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3884.%20First%20Matching%20Character%20From%20Both%20Ends.swift) | Swift |
