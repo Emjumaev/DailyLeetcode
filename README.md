@@ -237,3 +237,4 @@ Daily LeetCode solutions in Swift.
 | 226 | 3658 | GCD of Odd and Even Sums | [Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3658.%20GCD%20of%20Odd%20and%20Even%20Sums.swift) | Swift |
 | 227 | 394 | Decode String | [Link](https://leetcode.com/problems/decode-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/394.%20Decode%20String.swift) | Swift |
 | 228 | 895 | Maximum Frequency Stack | [Link](https://leetcode.com/problems/maximum-frequency-stack/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/895.%20Maximum%20Frequency%20Stack.swift) | Swift |
+| 229 | 2485 | Find the Pivot Integer | [Link](https://leetcode.com/problems/find-the-pivot-integer/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2485.%20Find%20the%20Pivot%20Integer.swift) | Swift |
