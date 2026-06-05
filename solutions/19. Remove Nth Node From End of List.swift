@@ -12,27 +12,29 @@ class Solution {
     func removeNthFromEnd(_ head: ListNode?, _ n: Int) -> ListNode? {
         var count = 0
         var cur = head
-        
-
         while(cur != nil) {
             count += 1
             cur = cur?.next
         }
-        
-        if count == n {
-            return head?.next
-        }
 
-        var i = 0
-        var target = count - n - 1
+        if count <= 1 { return nil }
 
         cur = head
-        while(i < target) {
+        var prev: ListNode? = nil
+        var ind = 0
+
+        while(cur != nil) {
+            if ind == count - n {
+                if prev == nil {
+                    return cur?.next
+                }
+                prev?.next = cur?.next
+                return head
+            }
+            prev = cur
             cur = cur?.next
-            i += 1
+            ind += 1
         }
-        
-        cur?.next = cur?.next?.next
 
         return head
     }
