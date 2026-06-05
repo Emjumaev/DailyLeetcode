@@ -10,24 +10,40 @@
  */
 class Solution {
     func reorderList(_ head: ListNode?) {
-        var nodes = [ListNode?]()
-        var cur = head
+        // get to the middle
+        var slow = head
+        var fast = head
 
-        while(cur != nil) {
-            nodes.append(cur)
-            cur = cur?.next
+        while(fast != nil && fast?.next != nil) {
+            slow = slow?.next
+            fast = fast?.next?.next
         }
 
-        var i = 0
-        var j = nodes.count - 1
+        // reverse from the middle
+        var mid = slow?.next
+        slow?.next = nil
+        var prev: ListNode? = nil
 
-        while(i < j) {
-            nodes[i]?.next = nodes[j]
-            i += 1
-
-            nodes[j]?.next = nodes[i]
-            j -= 1
+        while(mid != nil) {
+            let temp = mid?.next
+            mid?.next = prev
+            prev = mid
+            mid = temp
         }
-        nodes[i]?.next = nil
+
+        // iterate through it.
+        var cur1 = head
+        var cur2 = prev
+
+        while(cur1 != nil && cur2 != nil) {
+            let temp1 = cur1?.next
+            let temp2 = cur2?.next
+            cur1?.next = cur2
+            cur1 = temp1
+            if cur1 != nil {
+                cur2?.next = cur1
+                cur2 = temp2
+            }
+        }
     }
 }
