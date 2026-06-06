@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 210 solutions**
+**Total: 240 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -246,3 +246,6 @@ Daily LeetCode solutions in Swift.
 | 235 | 2130 | Maximum Twin Sum of a Linked List | [Link](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.swift) | Swift |
 | 236 | 141 | Linked List Cycle | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/141.%20Linked%20List%20Cycle.swift) | Swift |
 | 237 | 287 | Find the Duplicate Number | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/287.%20Find%20the%20Duplicate%20Number.swift) | Swift |
+| 238 | 2 | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2.%20Add%20Two%20Numbers.swift) | Swift |
+| 239 | 3217 | Delete Nodes From Linked List Present in Array | [Link](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.swift) | Swift |
+| 240 | 2816 | Double a Number Represented as a Linked List | [Link](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.swift) | Swift |
