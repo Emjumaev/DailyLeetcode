@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 248 solutions**
+**Total: 249 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -257,3 +257,4 @@ Daily LeetCode solutions in Swift.
 | 246 | 415 | Add Strings | [Link](https://leetcode.com/problems/add-strings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/415.%20Add%20Strings.swift) | Swift |
 | 247 | 43 | Multiply Strings | [Link](https://leetcode.com/problems/multiply-strings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/43.%20Multiply%20Strings.swift) | Swift |
 | 248 | 201 | Bitwise AND of Numbers Range | [Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.swift) | Swift |
+| 249 | 1399 | Count Largest Group | [Link](https://leetcode.com/problems/count-largest-group/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1399.%20Count%20Largest%20Group.swift) | Swift |
