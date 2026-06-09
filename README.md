@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 240 solutions**
+**Total: 245 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -249,3 +249,8 @@ Daily LeetCode solutions in Swift.
 | 238 | 2 | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2.%20Add%20Two%20Numbers.swift) | Swift |
 | 239 | 3217 | Delete Nodes From Linked List Present in Array | [Link](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.swift) | Swift |
 | 240 | 2816 | Double a Number Represented as a Linked List | [Link](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.swift) | Swift |
+| 241 | 622 | Design Circular Queue | [Link](https://leetcode.com/problems/design-circular-queue/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/622.%20Design%20Circular%20Queue.swift) | Swift |
+| 242 | 25 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/25.%20Reverse%20Nodes%20in%20k-Group.swift) | Swift |
+| 243 | 389 | Find the Difference | [Link](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/389.%20Find%20the%20Difference.swift) | Swift |
+| 244 | 1071 | Greatest Common Divisor of Strings | [Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings.swift) | Swift |
+| 245 | 867 | Transpose Matrix | [Link](https://leetcode.com/problems/transpose-matrix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/867.%20Transpose%20Matrix.swift) | Swift |
