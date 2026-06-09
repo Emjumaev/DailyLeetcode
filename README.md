@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 249 solutions**
+**Total: 251 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -258,3 +258,5 @@ Daily LeetCode solutions in Swift.
 | 247 | 43 | Multiply Strings | [Link](https://leetcode.com/problems/multiply-strings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/43.%20Multiply%20Strings.swift) | Swift |
 | 248 | 201 | Bitwise AND of Numbers Range | [Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.swift) | Swift |
 | 249 | 1399 | Count Largest Group | [Link](https://leetcode.com/problems/count-largest-group/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1399.%20Count%20Largest%20Group.swift) | Swift |
+| 250 | 1980 | Find Unique Binary String | [Link](https://leetcode.com/problems/find-unique-binary-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1980.%20Find%20Unique%20Binary%20String.swift) | Swift |
+| 251 | 2433 | Find The Original Array of Prefix Xor | [Link](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.swift) | Swift |
