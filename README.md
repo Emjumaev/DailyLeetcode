@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 245 solutions**
+**Total: 248 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -254,3 +254,6 @@ Daily LeetCode solutions in Swift.
 | 243 | 389 | Find the Difference | [Link](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/389.%20Find%20the%20Difference.swift) | Swift |
 | 244 | 1071 | Greatest Common Divisor of Strings | [Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings.swift) | Swift |
 | 245 | 867 | Transpose Matrix | [Link](https://leetcode.com/problems/transpose-matrix/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/867.%20Transpose%20Matrix.swift) | Swift |
+| 246 | 415 | Add Strings | [Link](https://leetcode.com/problems/add-strings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/415.%20Add%20Strings.swift) | Swift |
+| 247 | 43 | Multiply Strings | [Link](https://leetcode.com/problems/multiply-strings/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/43.%20Multiply%20Strings.swift) | Swift |
+| 248 | 201 | Bitwise AND of Numbers Range | [Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.swift) | Swift |
