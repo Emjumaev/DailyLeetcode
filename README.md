@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 257 solutions**
+**Total: 258 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -266,3 +266,4 @@ Daily LeetCode solutions in Swift.
 | 255 | 3211 | Generate Binary Strings Without Adjacent Zeros | [Link](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3211.%20Generate%20Binary%20Strings%20Without%20Adjacent%20Zeros.swift) | Swift |
 | 256 | 2657 | Find the Prefix Common Array of Two Arrays | [Link](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.swift) | Swift |
 | 257 | 2265 | Count Nodes Equal to Average of Subtree | [Link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.swift) | Swift |
+| 258 | 1302 | Deepest Leaves Sum | [Link](https://leetcode.com/problems/deepest-leaves-sum/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1302.%20Deepest%20Leaves%20Sum.swift) | Swift |
