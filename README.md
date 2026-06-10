@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 253 solutions**
+**Total: 254 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -262,3 +262,4 @@ Daily LeetCode solutions in Swift.
 | 251 | 2433 | Find The Original Array of Prefix Xor | [Link](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.swift) | Swift |
 | 252 | 3760 | Maximum Substrings With Distinct Start | [Link](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3760.%20Maximum%20Substrings%20With%20Distinct%20Start.swift) | Swift |
 | 253 | 3925 | Concatenate Array With Reverse | [Link](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3925.%20Concatenate%20Array%20With%20Reverse.swift) | Swift |
+| 254 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.swift) | Swift |
