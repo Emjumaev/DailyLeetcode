@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 255 solutions**
+**Total: 256 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -264,3 +264,4 @@ Daily LeetCode solutions in Swift.
 | 253 | 3925 | Concatenate Array With Reverse | [Link](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3925.%20Concatenate%20Array%20With%20Reverse.swift) | Swift |
 | 254 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.swift) | Swift |
 | 255 | 3211 | Generate Binary Strings Without Adjacent Zeros | [Link](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3211.%20Generate%20Binary%20Strings%20Without%20Adjacent%20Zeros.swift) | Swift |
+| 256 | 2657 | Find the Prefix Common Array of Two Arrays | [Link](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.swift) | Swift |
