@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 264 solutions**
+**Total: 265 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -273,3 +273,4 @@ Daily LeetCode solutions in Swift.
 | 262 | 2657 | Find the Prefix Common Array of Two Arrays | [Link](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.swift) | Swift |
 | 263 | 2265 | Count Nodes Equal to Average of Subtree | [Link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.swift) | Swift |
 | 264 | 1302 | Deepest Leaves Sum | [Link](https://leetcode.com/problems/deepest-leaves-sum/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1302.%20Deepest%20Leaves%20Sum.swift) | Swift |
+| 265 | 3945 | Digit Frequency Score | [Link](https://leetcode.com/problems/digit-frequency-score/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3945.%20Digit%20Frequency%20Score.swift) | Swift |
