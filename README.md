@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 266 solutions**
+**Total: 267 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -275,3 +275,4 @@ Daily LeetCode solutions in Swift.
 | 264 | 2265 | Count Nodes Equal to Average of Subtree | [Link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.swift) | Swift |
 | 265 | 1302 | Deepest Leaves Sum | [Link](https://leetcode.com/problems/deepest-leaves-sum/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1302.%20Deepest%20Leaves%20Sum.swift) | Swift |
 | 266 | 3945 | Digit Frequency Score | [Link](https://leetcode.com/problems/digit-frequency-score/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3945.%20Digit%20Frequency%20Score.swift) | Swift |
+| 267 | 3668 | Restore Finishing Order | [Link](https://leetcode.com/problems/restore-finishing-order/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3668.%20Restore%20Finishing%20Order.swift) | Swift |
