@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 267 solutions**
+**Total: 268 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -276,3 +276,4 @@ Daily LeetCode solutions in Swift.
 | 265 | 1302 | Deepest Leaves Sum | [Link](https://leetcode.com/problems/deepest-leaves-sum/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1302.%20Deepest%20Leaves%20Sum.swift) | Swift |
 | 266 | 3945 | Digit Frequency Score | [Link](https://leetcode.com/problems/digit-frequency-score/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3945.%20Digit%20Frequency%20Score.swift) | Swift |
 | 267 | 3668 | Restore Finishing Order | [Link](https://leetcode.com/problems/restore-finishing-order/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/3668.%20Restore%20Finishing%20Order.swift) | Swift |
+| 268 | 918 | Maximum Sum Circular Subarray | [Link](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/918.%20Maximum%20Sum%20Circular%20Subarray.swift) | Swift |
