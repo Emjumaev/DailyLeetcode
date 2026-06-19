@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 269 solutions**
+**Total: 272 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -280,3 +280,4 @@ Daily LeetCode solutions in Swift.
 | 269 | 674 | Longest Continuous Increasing Subsequence | [Link](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.swift) | Swift |
 | 270 | 978 | Longest Turbulent Subarray | [Link](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/978.%20Longest%20Turbulent%20Subarray.swift) | Swift |
 | 271 | 567 | Permutation in String | [Link](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/567.%20Permutation%20in%20String.swift) | Swift |
+| 272 | 303 | Range Sum Query - Immutable | [Link](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.swift) | Swift |
