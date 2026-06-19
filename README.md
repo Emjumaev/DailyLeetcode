@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 272 solutions**
+**Total: 273 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -281,3 +281,5 @@ Daily LeetCode solutions in Swift.
 | 270 | 978 | Longest Turbulent Subarray | [Link](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/978.%20Longest%20Turbulent%20Subarray.swift) | Swift |
 | 271 | 567 | Permutation in String | [Link](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/567.%20Permutation%20in%20String.swift) | Swift |
 | 272 | 303 | Range Sum Query - Immutable | [Link](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.swift) | Swift |
+| 273 | 304 | Range Sum Query 2D - Immutable | [Link](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.swift) | Swift |
+| 274 | 239 | Sliding Window Maximum | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/239.%20Sliding%20Window%20Maximum.swift) | Swift |
