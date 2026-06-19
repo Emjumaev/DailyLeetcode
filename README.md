@@ -284,3 +284,4 @@ Daily LeetCode solutions in Swift.
 | 273 | 304 | Range Sum Query 2D - Immutable | [Link](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.swift) | Swift |
 | 274 | 239 | Sliding Window Maximum | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/239.%20Sliding%20Window%20Maximum.swift) | Swift |
 | 275 | 229 | Majority Element II | [Link](https://leetcode.com/problems/majority-element-ii/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/229.%20Majority%20Element%20II.swift) | Swift |
+| 276 | 36 | Valid Sudoku | [Link](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/36.%20Valid%20Sudoku.swift) | Swift |
