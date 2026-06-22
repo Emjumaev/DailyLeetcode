@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 280 solutions**
+**Total: 281 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -289,3 +289,4 @@ Daily LeetCode solutions in Swift.
 | 278 | 1325 | Delete Leaves With a Given Value | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.swift) | Swift |
 | 279 | 1448 | Count Good Nodes in Binary Tree | [Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.swift) | Swift |
 | 280 | 981 | Time Based Key-Value Store | [Link](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/981.%20Time%20Based%20Key-Value%20Store.swift) | Swift |
+| 281 | 746 | Min Cost Climbing Stairs | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs.swift) | Swift |
