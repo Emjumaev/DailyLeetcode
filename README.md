@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 273 solutions**
+**Total: 280 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -286,3 +286,6 @@ Daily LeetCode solutions in Swift.
 | 275 | 229 | Majority Element II | [Link](https://leetcode.com/problems/majority-element-ii/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/229.%20Majority%20Element%20II.swift) | Swift |
 | 276 | 36 | Valid Sudoku | [Link](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/36.%20Valid%20Sudoku.swift) | Swift |
 | 277 | 50 | Pow(x, n) | [Link](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/50.%20Pow%28x%2C%20n%29.swift) | Swift |
+| 278 | 1325 | Delete Leaves With a Given Value | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.swift) | Swift |
+| 279 | 1448 | Count Good Nodes in Binary Tree | [Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.swift) | Swift |
+| 280 | 981 | Time Based Key-Value Store | [Link](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/981.%20Time%20Based%20Key-Value%20Store.swift) | Swift |
