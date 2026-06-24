@@ -4,7 +4,7 @@ Daily LeetCode solutions in Swift.
 
 ## Solutions
 
-**Total: 281 solutions**
+**Total: 283 solutions**
 
 
 | No. | # | Problem Name | LeetCode | Solution | Language |
@@ -290,3 +290,5 @@ Daily LeetCode solutions in Swift.
 | 279 | 1448 | Count Good Nodes in Binary Tree | [Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.swift) | Swift |
 | 280 | 981 | Time Based Key-Value Store | [Link](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/981.%20Time%20Based%20Key-Value%20Store.swift) | Swift |
 | 281 | 746 | Min Cost Climbing Stairs | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs.swift) | Swift |
+| 282 | 213 | House Robber II | [Link](https://leetcode.com/problems/house-robber-ii/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/213.%20House%20Robber%20II.swift) | Swift |
+| 283 | 124 | Binary Tree Maximum Path Sum | [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/Emjumaev/DailyLeetcode/blob/main/solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.swift) | Swift |
